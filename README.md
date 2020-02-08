@@ -8,4 +8,4 @@ Create an interactive application that allows users to load images, and display 
 ---
 
 ## Layout
-![Image_rater](pic.PNG)
+![Image_rater](pic.png)
