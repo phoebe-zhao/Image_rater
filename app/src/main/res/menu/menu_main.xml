@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/mytitle"
+        app:showAsAction="always"
+        android:title = "Fotag"/>
+
+    <item android:id="@+id/download"
+        app:showAsAction="always"
+        android:title = "load"
+        android:icon="@drawable/dowload"
+        />
+
+
+    <item
+        android:id="@+id/clearimage"
+        android:title= "to clear"
+        app:showAsAction="always"
+        android:icon="@drawable/clearimage"
+        />
+
+    <item
+        android:id="@+id/star1"
+        android:icon="@drawable/star"
+        android:title="star1"
+        app:showAsAction="always"/>
+
+
+
+
+    <item
+        android:id="@+id/star2"
+        android:icon="@drawable/star"
+        android:title="star2"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/star3"
+        android:icon="@drawable/star"
+        android:title="star3"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/star4"
+        android:icon="@drawable/star"
+        android:title="star4"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/star5"
+        android:icon="@drawable/star"
+        android:title="star5"
+        app:showAsAction="always"/>
+
+
+</menu>
+
